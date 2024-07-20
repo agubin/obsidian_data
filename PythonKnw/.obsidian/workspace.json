@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "ee0c606756df1e6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "48ee1adf360dd577",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1a2b281775c3678",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4d20e710abaa28a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e461c57736bc7f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e28c2fe2314cb8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b6e7c25d2c7fab9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79acde34a6016a59",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5
+  },
+  "right": {
+    "id": "e63fa4187d928a83",
+    "type": "split",
+    "children": [
+      {
+        "id": "47ccbd6017213053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1990caff1f64289d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bc5a65890c3ac516",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d883577a84b92af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2dfaca0c854de22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "b1a2b281775c3678",
+  "lastOpenFiles": [
+    "Linux/Commands/lscpu.md",
+    "Linux/Commands/ip.md",
+    "Internet/DevTools/Cache.md",
+    "Pasted image 20240424224402.png",
+    "Pasted image 20240424224255.png",
+    "Internet/Безопасность/Подпись cookie.md",
+    "Internet/DevTools",
+    "Internet/Безопасность/Сессия.md",
+    "Internet/Безопасность/Cookies.md",
+    "Internet/Безопасность",
+    "Knowledge/хеш-функция.md",
+    "Welcome.md",
+    "Knowledge",
+    "Internet/Авторизация.md",
+    "Internet/Аутентификация.md",
+    "Internet/Протоколы/HTTP/Headers/Host.md",
+    "PythonTopBook/Content/Конкурентность_параддедизм/GIL.md",
+    "PythonTopBook/Content/Конкурентность_параддедизм/Терминология.md",
+    "PythonTopBook/Content/Конкурентность_параддедизм/Заметка.md",
+    "PythonTopBook/Content/Сопрограммы/Определение.md",
+    "PythonTopBook/Content/Конкурентность_параддедизм",
+    "PythonTopBook/BookResourses/Pasted image 20240304225928.png",
+    "PythonTopBook/BookResourses/Pasted image 20240404220149.png",
+    "PythonTopBook/BookResourses/Pasted image 20240404220036.png",
+    "PythonTopBook/BookResourses/Pasted image 20240404220022.png",
+    "PythonTopBook/Content/Сопрограммы",
+    "PythonTopBook/BookResourses/Pasted image 20240402234358.png",
+    "PythonTopBook/BookResourses/Pasted image 20240402234343.png",
+    "PythonTopBook/Content/Генераторы/Демонстрация работы.md",
+    "PythonTopBook/Content/Генераторы/yield from.md",
+    "PythonTopBook/Content/Генераторы/Генераторное выражение.md",
+    "PythonTopBook/Content/Генераторы/Ленивое итерирование.md",
+    "PythonTopBook/Content/Генераторы/Устройство.md",
+    "PythonTopBook/BookResourses/Pasted image 20240304235752.png",
+    "PythonTopBook/BookResourses/Pasted image 20240304235623.png",
+    "PythonTopBook/Content/Коллекции/Последовательности/Общее/iter.md",
+    "PythonTopBook/Content/Генераторы",
+    "PythonTopBook/Content/Коллекции/Последовательности/iter и Callable.md",
+    "PythonTopBook/Content/Коллекции/Последовательности/Общее/Включение с сохранением сортировки.md",
+    "PythonTopBook/Content/Коллекции/Последовательности/Общее/__getitem__.md",
+    "PythonTopBook/Content/Наследование/Классы-примеси.md",
+    "Internet/Протоколы/URL.md",
+    "Internet/Протоколы/HTTP/Chrome Developer Tools",
+    "Internet/Протоколы/HTTP/Headers",
+    "Internet/Протоколы/HTTP/Методы",
+    "Internet/Протоколы/HTTP"
+  ]
+}
